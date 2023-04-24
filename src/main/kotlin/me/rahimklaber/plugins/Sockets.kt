@@ -13,7 +13,6 @@ import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import me.rahimklaber.swap.ClientMessage
-import me.rahimklaber.swap.StellarToPolygonSettings
 import me.rahimklaber.swap.stellarToPolygonServer
 
 fun Application.configureSockets() {

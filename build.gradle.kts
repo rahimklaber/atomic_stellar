@@ -38,7 +38,7 @@ dependencies {
 
     implementation ("com.github.stellar:java-stellar-sdk:0.34.1")
 
-    implementation("com.github.komputing:kethereum:0.85.7")
-    implementation("io.arrow-kt:arrow-fx-coroutines:1.0.1")
+    implementation ("org.web3j:core:4.9.5")
 
+    implementation("io.arrow-kt:arrow-fx-coroutines:1.0.1")
 }
